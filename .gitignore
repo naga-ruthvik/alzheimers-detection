@@ -1,0 +1,12 @@
+.DS_Store
+.*/__pycache__
+.*pyc
+ViT/data/*
+Data/*
+PreprocessedData/*
+*.pt
+*.ipynb
+.venv
+*.pyc
+models_enhanced/model_epoch_*
+__pycache__/explainability_v2.cpython-312.pyc

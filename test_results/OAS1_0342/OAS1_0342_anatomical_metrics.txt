@@ -1,0 +1,29 @@
+Anatomical Evaluation for OAS1_0342
+==================================================
+subject_id: OAS1_0342
+heatmap_stats:
+  max: 1.0
+  mean: 0.03633446991443634
+  std: 0.09170136600732803
+  sparsity: 0.6044921875
+adc_metrics:
+  adc: 0.0271256685256958
+  mean_drop: 0.0271256685256958
+  std_drop: 0.0810250100123162
+  samples_used: 10
+clinical_relevance:
+  clinical_score: 0.20173366367816925
+  total_attention: 76198.90625
+  clinical_attention: 15371.884765625
+  region_scores: {'medial_temporal': {'attention_mass': np.float32(11566.646), 'relative_attention': np.float32(0.15179545), 'region_size': np.int64(98838)}, 'ventricles': {'attention_mass': np.float32(3805.2388), 'relative_attention': np.float32(0.04993823), 'region_size': np.int64(16575)}}
+shortcut_detection:
+  shortcut_score: 0.4174974262714386
+  total_attention: 76198.90625
+  shortcut_attention: 31812.84765625
+  region_scores: {'cerebellum': {'attention_mass': np.float32(23597.457), 'relative_attention': np.float32(0.30968237), 'region_size': np.int64(524288)}, 'brainstem': {'attention_mass': np.float32(4745.891), 'relative_attention': np.float32(0.06228293), 'region_size': np.int64(15625)}, 'fov_edges': {'attention_mass': np.float32(3469.4995), 'relative_attention': np.float32(0.045532145), 'region_size': np.int64(692224)}}
+region_overlap:
+overall_scores:
+  anatomical_grounding_score: -0.21576376259326935
+  adc_score: 0.0271256685256958
+  confidence: 0.20173366367816925
+

@@ -1,0 +1,4 @@
+subject,true_label,pred_label,confidence,correct
+OAS2_0018,CN,AD,0.9960416555404663,False
+OAS2_0009,AD,AD,0.9953078627586365,True
+OAS2_0060,AD,AD,0.9898151159286499,True
